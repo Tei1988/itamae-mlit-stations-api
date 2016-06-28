@@ -1,0 +1,14 @@
+rbenv:
+  global:
+    2.3.1
+  versions:
+    - 2.3.1
+  rbenv_root: /usr/local/rbenv
+  scheme: https
+  cache: true
+ruby-build:
+  revision: 75dcbfb178449398deeee7cb71465f7de5c2a287
+rbenv-default-gems:
+  default-gems:
+    - bundler
+  install: true
